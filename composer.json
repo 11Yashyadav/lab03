@@ -1,0 +1,17 @@
+{
+    "name": "company/utility",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Company\\Utility\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yash Yadav",
+            "email": "yashyadav9325@gmail.com"
+        }
+    ],
+    "require": {}
+}
